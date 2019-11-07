@@ -1,3 +1,5 @@
+**NOTE: This repo is now archived 2019-11-07**
+
 # biothings_explorer.py
 Python Client for BioThings Explorer
 
